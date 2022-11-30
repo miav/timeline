@@ -1,7 +1,7 @@
 *{
-	margin:0;
-	padding:0;
-	font-family: 'Poppins', sans-serif;
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
 
@@ -102,6 +102,7 @@ body{
 .text-box small{
     display: inline-block;
     margin-bottom: 15px;
+    font-weight: 400; 
 }
 
 .left-arrow{
