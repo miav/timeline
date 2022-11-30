@@ -51,6 +51,7 @@ body{
     background: #fff;
     border-radius: 7px;
     font-size: 14px;
+    font-weight: 500; 
 }
 
 .left-container{
@@ -102,7 +103,7 @@ body{
 .text-box small{
     display: inline-block;
     margin-bottom: 15px;
-    font-weight: 400; 
+   
 }
 
 .left-arrow{
